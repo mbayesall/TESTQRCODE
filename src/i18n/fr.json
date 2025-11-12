@@ -1,0 +1,198 @@
+{
+  "common": {
+    "learnMore": "En savoir plus",
+    "getStarted": "Commencer",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "signOut": "Se déconnecter",
+    "contact": "Contact",
+    "about": "À propos",
+    "home": "Accueil",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "search": "Rechercher",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  },
+  "nav": {
+    "formations": "Formations",
+    "workshops": "Ateliers",
+    "teambuilding": "Team Building",
+    "calendar": "Calendrier",
+    "blog": "Blog",
+    "testimonials": "Témoignages",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Renforcez vos compétences numériques au Sénégal",
+    "subtitle": "Formations, ateliers et team building en IA, gouvernance des données et cybersécurité",
+    "cta": "Découvrir nos formations",
+    "ctaSecondary": "Demander un devis"
+  },
+  "stats": {
+    "formations": "Formations",
+    "participants": "Participants formés",
+    "satisfaction": "Taux de satisfaction",
+    "companies": "Entreprises partenaires"
+  },
+  "sectors": {
+    "title": "Nos secteurs d'intervention",
+    "education": {
+      "title": "Éducation",
+      "description": "Accompagnement des établissements scolaires et universités dans la transformation numérique"
+    },
+    "health": {
+      "title": "Santé",
+      "description": "Solutions de gouvernance des données pour le secteur de la santé au Sénégal"
+    },
+    "entrepreneurship": {
+      "title": "Entrepreneuriat",
+      "description": "Formations pratiques pour les entrepreneurs et startups sénégalaises"
+    }
+  },
+  "formations": {
+    "title": "Nos Formations",
+    "subtitle": "Découvrez nos programmes adaptés à vos besoins",
+    "filter": {
+      "all": "Toutes",
+      "ai": "Intelligence Artificielle",
+      "data": "Gouvernance des Données",
+      "cybersecurity": "Cybersécurité",
+      "digital": "Transformation Digitale"
+    },
+    "level": {
+      "beginner": "Débutant",
+      "intermediate": "Intermédiaire",
+      "advanced": "Avancé",
+      "expert": "Expert"
+    },
+    "duration": "Durée",
+    "price": "Prix",
+    "enrolled": "Inscrits",
+    "spots": "places",
+    "enroll": "S'inscrire",
+    "details": "Voir les détails"
+  },
+  "testimonials": {
+    "title": "Ils nous font confiance",
+    "subtitle": "Découvrez les retours de nos clients et participants sénégalais"
+  },
+  "blog": {
+    "title": "Blog & Actualités",
+    "subtitle": "Restez informé des dernières tendances en IA et cybersécurité",
+    "readMore": "Lire la suite",
+    "readTime": "min de lecture",
+    "categories": "Catégories",
+    "latestPosts": "Derniers articles"
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "subtitle": "Trouvez rapidement des réponses à vos questions"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Notre équipe est à votre écoute",
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "company": "Entreprise",
+    "subject": "Sujet",
+    "message": "Message",
+    "send": "Envoyer",
+    "success": "Message envoyé avec succès !",
+    "error": "Erreur lors de l'envoi du message"
+  },
+  "quote": {
+    "title": "Demande de Devis Personnalisé",
+    "subtitle": "Obtenez une offre adaptée à vos besoins",
+    "trainingType": "Type de formation",
+    "participants": "Nombre de participants",
+    "budget": "Budget estimé",
+    "sector": "Secteur d'activité",
+    "submit": "Demander un devis"
+  },
+  "subscription": {
+    "title": "Nos Plans d'Abonnement",
+    "subtitle": "Choisissez le plan qui vous convient",
+    "monthly": "Mensuel",
+    "quarterly": "Trimestriel",
+    "yearly": "Annuel",
+    "save": "Économisez",
+    "subscribe": "S'abonner",
+    "current": "Plan actuel",
+    "features": "Fonctionnalités incluses"
+  },
+  "footer": {
+    "about": "À propos d'ENGY LABS",
+    "description": "Plateforme 100% sénégalaise dédiée au renforcement des compétences en IA, gouvernance des données et cybersécurité.",
+    "quickLinks": "Liens rapides",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Restez informé de nos dernières formations",
+    "subscribe": "S'abonner",
+    "rights": "Tous droits réservés"
+  },
+  "auth": {
+    "signIn": {
+      "title": "Connexion",
+      "subtitle": "Accédez à votre espace personnel",
+      "email": "Email",
+      "password": "Mot de passe",
+      "remember": "Se souvenir de moi",
+      "forgot": "Mot de passe oublié ?",
+      "noAccount": "Pas encore de compte ?",
+      "signUp": "Créer un compte"
+    },
+    "signUp": {
+      "title": "Créer un compte",
+      "subtitle": "Rejoignez la communauté ENGY LABS",
+      "name": "Nom complet",
+      "email": "Email",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "phone": "Téléphone",
+      "company": "Entreprise (optionnel)",
+      "position": "Poste (optionnel)",
+      "agree": "J'accepte les conditions d'utilisation",
+      "hasAccount": "Déjà un compte ?",
+      "signIn": "Se connecter"
+    }
+  },
+  "calendar": {
+    "title": "Calendrier des Événements",
+    "subtitle": "Planifiez votre parcours de formation",
+    "filter": {
+      "all": "Tous les événements",
+      "upcoming": "À venir",
+      "online": "En ligne",
+      "onsite": "En présentiel"
+    },
+    "month": "Mois",
+    "week": "Semaine",
+    "day": "Jour",
+    "register": "S'inscrire",
+    "full": "Complet",
+    "available": "places disponibles"
+  },
+  "admin": {
+    "dashboard": "Tableau de bord",
+    "formations": "Gestion des formations",
+    "users": "Utilisateurs",
+    "orders": "Commandes",
+    "subscriptions": "Abonnements",
+    "blog": "Blog",
+    "testimonials": "Témoignages",
+    "messages": "Messages",
+    "settings": "Paramètres"
+  }
+}
